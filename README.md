@@ -1,4 +1,4 @@
-# bmi_calculator
+# BMI Calcy
 
 A new Flutter project.
 
